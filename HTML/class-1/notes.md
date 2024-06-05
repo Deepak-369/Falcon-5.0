@@ -20,4 +20,4 @@
    ## images:
    - <img src="image.jpg" alt="image description">
    ## break tag:
-   - it take the code to another new line.
+   - it take the code to another new line
