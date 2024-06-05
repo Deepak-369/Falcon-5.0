@@ -4,8 +4,8 @@
 - It is used to create web pages,
 - HTML defines the structure of a web page.
 - HTML is made up of elements, a series of
- elements are uses to define different parts of a
- web page.
+  elements are uses to define different parts of a
+  web page.
 
 
 ## history :
@@ -22,10 +22,10 @@
  
 - SCO-Short Change Optimization.
 ## links :
- toredirect to another specified link.
+ - to redirect to another specified link.
 - <a herf="https://www.goggle.com">
- <a href="mailto:example@example.com">Email</a><br>
-   <a href="tel:1234567890">mob.no.</a>
+  <a href="mailto:example@example.com">Email</a><br>
+  <a href="tel:1234567890">mob.no.</a>
 ## images:
 - <img src="image.jpg" alt="image description">
 ## break tag:
