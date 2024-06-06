@@ -21,6 +21,17 @@
 - <body> - Body section.
  
 - SCO-Short Change Optimization.
+## Headings:
+- <h1>
+  .
+  .
+  .
+
+  <h6>
+
+## pragraph:
+- contents
+- lorem 100
 ## links :
  - to redirect to another specified link.
 - <a herf="https://www.goggle.com">
