@@ -68,7 +68,13 @@ This tag is used to specify the version of HTML
  <li>Item 1</li>
  <li>Item 2</li>
  </ol>
- - Unorder list:
+ - Unorder list:(UL) is used to create a list of items in no particular order. It is represented by bullets (•, ‣, ⁃).
+- Syntax :
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+- Definition List : (li) is used to create a list of items.
  ## Tables:
  <th>- table head
  <tr>- table row
@@ -79,6 +85,12 @@ This tag is used to specify the version of HTML
  <tr>
  <th>column 1</th>
  <th>column 2</th>
+ </tr>
+ <tr>
+ <td>Cell 1</td>
+ <td>Cell 2</td>
+ </tr>
+ </table>
  ## Task-1:
  Create a simple HTML page with hte following elements :
  -A heading tag contais haeding.
@@ -88,3 +100,7 @@ This tag is used to specify the version of HTML
  - Make a MCQ question format.
  - Add your friend list in Un-order list
  - Make a table of data (name,age,city,gender,college)
+ ## semantid Tags :
+ - Semantic tag is clearly describe a human and machine readable way.
+- It is used to define different parts of an HTML document.
+- It is used for SEO purpose.
