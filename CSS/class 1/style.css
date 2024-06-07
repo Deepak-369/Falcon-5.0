@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+img{
+    height:400px;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 132, 255);
+    display:block;
+    margin:0 auto;
+}
+body{
+    height: 100px;
+    font-family:"Permanent Marker", cursive; 
+    font-weight: 400;
+    font-style: normal;
+}
