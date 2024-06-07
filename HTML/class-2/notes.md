@@ -6,57 +6,57 @@ The element doesn’t start on a new line and only occupy just the width it requ
 
 Inline elements accept only left and right margins.
 ## Tags :
- <opening tag> Content </closing tag>
+ - <opening tag> Content </closing tag>
 
-<!DOCTYPE>
+- <!DOCTYPE>
 This tag is used to specify the version of HTML
- <html>
+ - <html>
  represents the root of an HTML document
- <a>
+ - <a>
  It is termed as anchor tag and it creates a hyperlink or link.
- <b>
+ - <b>
   It is used to make a text bold.
- <body>
+ - <body>
   It is used to make a text bold.
- <br>
+ - <br>
  It is used to make a text bold.
- <button>
+ - <button>
   It is used to represent a clickable button.
- <div>
+ - <div>
  It defines a division or section within HTML document.
- <form>
+ - <form>
  It is used to define an HTML form.
- <h1> to <h6>
+ - <h1> to <h6>
  It defines headings for an HTML document from level 1 to level 6.
- <head>
+ - <head>
   It defines the head section of an HTML document.
- <hr>
+ - <hr>
   It defines the horizontal line of an HTML document.
- <img>
+ - <img>
   It is used to insert an image within an HTML document.
- <input>
+ - <input>
   It defines an input field within an HTML form.
- <label>
+ - <label>
   It defines a text label for the input field of form.
- <li>
+ - <li>
   It is used to represent items in list.
- <link>
+ - <link>
   It represents a relationship between current document and an external resource.
- <meta>
+ - <meta>
   It defines metadata of an HTML document.
- <option>
+ - <option>
   It is used to define options or items in a drop-down list.
- <p>
+ - <p>
   It represents a paragraph in an HTML document.
- <script>
+ - <script>
   It is used to declare the JavaScript within HTML document.
- <select>
+ - <select>
   It represents a control which provides a menu of options.
- <small>
+ - <small>
   It is used to make text font one size smaller than document?s base font size.
- <span>
+ - <span>
   It is used for styling and grouping inline.
- <style>
+ - <style>
   It is used to contain style information for an HTML document
 
 
