@@ -3,8 +3,8 @@
     color: white;
 }
 h1{
-    text-align: center;
-    text-transform:uppercase;
+    text-align:center;
+    text-transform:capitalize;
 }
 img{
     height:400px;
@@ -16,6 +16,6 @@ img{
 body{
     height: 100px;
     font-family:"Permanent Marker", cursive; 
-    font-weight: 400;
-    font-style: normal;
+    font-weight: 300;
+    font-style:oblique;
 }
