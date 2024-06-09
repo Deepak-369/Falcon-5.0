@@ -35,7 +35,8 @@ html:
 ## universal selector:
 - Followed by '*' symbol
 - Example :
-``` Javascript
+``` Javascript 
+
 ## Note for Students:
 Understanding CSS selectors is crucial for effective styling of HTML elements. Remember:
 
