@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    display: block;
+    text-align: center;
+}
+ #top1{
+    color: red;
+}
+#top2{
+    color: red;
+}
