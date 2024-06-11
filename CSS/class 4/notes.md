@@ -1,4 +1,4 @@
-##  CSS GRID
+#  CSS GRID
 Flexbox is one dimensional
 Grid is two dimensional
 ## grid-template-columns:
@@ -10,13 +10,13 @@ to get gap between each item, we can use grid-row-gap
 
 same goes for grid-column-gap
 
-## repeat():
+# repeat():
 The repeat() CSS function represents a repeated fragment of the track list, allowing a large number of columns or rows that exhibit a recurring pattern to be written in a more compact form.
 ## Syntax :
 repeat(no_of_times,size)
 
 for eg: grid-template-columns: 100px 100px can be written as repeat(2,100px)
-## Line based placement:
+# Line based placement:
 alt text
 
 https://github.com/Pramodjena/Falcon-5.0/raw/main/CSS/class-4/image.png
@@ -27,17 +27,17 @@ https://github.com/Pramodjena/Falcon-5.0/raw/main/CSS/class-4/image.png
   grid-area: 1/2/2/3;
   grid-area: orange;
 }
-## Spanning:
-# Definition:
+# Spanning:
+## Definition:
 Spanning allows an item to occupy multiple grid tracks (columns or rows).
-# Usage:
+## Usage:
 Implemented using the grid-column and grid-row properties on grid items.
-# Syntax:
+## Syntax:
 grid-column: start / end; specifies the start and end grid lines for the item horizontally.
-# grid-row: start / end; specifies the start and end grid lines for the item vertically.
-## Spanning Multiple Tracks:
+## grid-row: start / end; specifies the start and end grid lines for the item vertically.
+# Spanning Multiple Tracks:
 Use the span keyword to indicate how many tracks an item should span.
-# Example: grid-column: 1 / span 2; (Item spans 2 columns starting from the first grid line)
-# Shorthand:
+## Example: grid-column: 1 / span 2; (Item spans 2 columns starting from the first grid line)
+## Shorthand:
 Both grid-column and grid-row properties can be combined into a shorthand.
-# Example: grid-column: 1 / span 2; grid-row: 1 / span 3;
+## Example: grid-column: 1 / span 2; grid-row: 1 / span 3;
