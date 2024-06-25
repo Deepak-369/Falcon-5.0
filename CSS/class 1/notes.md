@@ -1,46 +1,60 @@
-## CSS Selectors:
+# CSS Selectors:
 ## Selectors:
 Selectors are patterns used to select HTML elements that you want to style. They are fundamental to CSS as they define the elements to which the CSS rules apply. Selectors can target elements based on their type, attributes, relationship with other elements, and more.
 
 ## ID Selectors:
 ID selectors are used to select elements based on their unique identifier (ID). They are denoted by the hash (#) symbol followed by the ID name. ID selectors should be unique within the HTML document, meaning only one element should have a particular ID. IDs are often used for styling specific elements or for JavaScript manipulation.
 
-Example :
+### Example :
 - css:
-#header {
+- #header {
     background-color: blue;
     color: white;
     padding: 10px;
 }
 
 - html:
-<div id="header">
+ <div id="header">
     <h1>Welcome</h1>
-</div>
-Class Selectors:
+ </div>
+
+## Class Selectors:
 Class selectors are used to select elements based on their class attribute. They are denoted by a period (.) followed by the class name. Class selectors can be applied to multiple elements, allowing for consistent styling across different parts of the page.
 
-Example :
-css:
-.button {
+### Example :
+- css:
+- .button {
     background-color: green;
     color: white;
     padding: 5px 10px;
 }
 
-html:
+- html:
 <button class="button">Click Me</button>
 <button class="button">Submit</button>
 
 ## universal selector:
 - Followed by '*' symbol
 - Example :
-``` Javascript 
+
+- css:
+* {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
 
 ## Note for Students:
-Understanding CSS selectors is crucial for effective styling of HTML elements. Remember:
 
-IDs should be unique, representing a single element.
-Classes can be reused across multiple elements. Choose selectors wisely to efficiently target and style elements on your webpage.
-## value:
-- SICTU(Style > )
+- Understanding CSS selectors is crucial for effective styling of HTML elements. Remember:
+
+- IDs should be unique, representing a single element.
+- Classes can be reused across multiple elements.
+  Choose selectors wisely to efficiently target and style elements on your webpage.
+
+## Value :
+
+- SICTU(Style > Id > Class > Tag > Universal)
+- 1000 > 100 > 10 > 1 > 0
+
+
